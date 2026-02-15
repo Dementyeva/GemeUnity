@@ -10,4 +10,6 @@ Tech Stack
 - C#
 - OOP
 - Git
-![Game Screenshot](images/screenshot.png)
+
+  
+![Game Screenshot](photo-14.jpg)
