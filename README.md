@@ -96,7 +96,8 @@ Both share similar mechanics:
 - Debug logging for development
 
   
-![Game Screenshot](photo-14.jpg)
+
 ![Game Screenshot](photo-15.jpg)
 ![Game Screenshot](photo-16.jpg)
 ![Game Screenshot](photo-17.jpg)
+![Game Screenshot](photo-14.jpg)
